@@ -18,7 +18,7 @@ b { color: green; }
 <body>
 <div class="container">
 <h1>🚀 Olá, Mundo da Nuvem! 🚀</h1>
-<p>Meu nome é <b>Laerthe luis</b> e este site está hospedado de
+<p>Meu nome é <b> Laerthe luis </b> e este site está hospedado de
 graça no GitHub Pages.</p>
 <p>Isso é um exemplo de <b>PaaS (Plataforma como Serviço)</b>. Eu não precisei
 configurar um servidor, apenas forneci o código e o GitHub publicou para mim!</p>
